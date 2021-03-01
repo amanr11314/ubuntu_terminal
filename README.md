@@ -8,7 +8,7 @@ This project is UI clone of Ubuntu terminal in Flutter.
 <br>
 
 ## To run the project:-
-- Switch to **dev** channe of flutter using command: 
+- Switch to **dev** channel of flutter using command: 
 
  ```
   flutter channel dev
